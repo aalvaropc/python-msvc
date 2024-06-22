@@ -1,7 +1,7 @@
 import wikipedia
 
 
-def wiki(name="Python (programming language)", length=1):
+def wiki(name="Java (programming language)", length=1):
     """Retrieves a summary of a Wikipedia article.
 
     Args:
